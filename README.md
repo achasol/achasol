@@ -12,6 +12,17 @@ Want to have a chat? reach out to me on [linkedin](https://www.linkedin.com/in/n
 or send me an email on [naim@achasol.com](mailto:naim@achasol.com)
 
 ### Open source work 👍
+<div class="contributions">
 - [functime.ai](https://functime.ai/) - added several feature extraction methods for timeseries using Polars. 
+</div>
+
+<style>
+.contributions {
+background-color: #efefef; 
+padding: 8px; 
+border-radius: 8px; 
+
+}
+</style> 
 
 
