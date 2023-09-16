@@ -13,19 +13,11 @@ or send me an email on [naim@achasol.com](mailto:naim@achasol.com)
 
 ### Open source work 👍
 
-<div class="contributions">
+<div  style="background-color: #efefef; padding: 8px; border-radius: 8px; ">
 
 - [functime.ai](https://functime.ai/) - added several feature extraction methods for timeseries using Polars.
   
 </div>
 
-<style>
-.contributions {
-background-color: #efefef; 
-padding: 8px; 
-border-radius: 8px; 
-
-}
-</style> 
 
 
