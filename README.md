@@ -4,8 +4,8 @@ I'm Naim, I work as a freelance machine learning engineer in the Netherlands for
 On the remaining days, I'm dedicated to pursuing my master's degree in Econometrics.
 My areas of interest are: 
 
-- dynamic pricing models
-- timeseries forecasting
+- Dynamic pricing models
+- Timeseries forecasting
 - Cost-effective LLM deployments 
 
 Want to have a chat? reach out to me on [linkedin](https://www.linkedin.com/in/na%C3%AFm-achahboun-b0b50a196),
