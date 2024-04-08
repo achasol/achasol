@@ -6,7 +6,7 @@ My areas of interest are:
 
 - dynamic pricing models
 - timeseries forecasting
-- causal inference
+- Cost-effective LLM deployments 
 
 Want to have a chat? reach out to me on [linkedin](https://www.linkedin.com/in/na%C3%AFm-achahboun-b0b50a196),
 or send me an email on [naim@achasol.com](mailto:naim@achasol.com)
