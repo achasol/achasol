@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Naim, I work as a Senior Solutions Engineer @ Databricks in the Netherlands.
+I'm Naim, I work as a Forward deployed engineer @ Databricks in the Netherlands.
 I am fortunate to have worked on many interesting projects for a diverse set of companies. 
 
 My current areas of interest are: 
